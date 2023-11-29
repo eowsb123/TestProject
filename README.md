@@ -1,2 +1,2 @@
 # TestProject
-THIS IS BRANCH 1
+This is branch 2
